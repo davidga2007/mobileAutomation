@@ -9,7 +9,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.remote.MobileCapabilityType;
 
-public class base {
+public class lunchApp {
 
 	public static void main(String[] args) throws MalformedURLException {
 		// TODO Auto-generated method stub
